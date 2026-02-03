@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="System-Cleaner/System-Cleaner.vcxproj" Id="5b60d459-d6d6-4102-8c04-694e6b27bf18" />
+</Solution>
